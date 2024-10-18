@@ -1,0 +1,10 @@
+Função reward
+
+(ver os valores da distancia -> apartir de uma certa distancia a reward não é aplicada)
+
+avaliar a distancia do eixo dos x dos dois carros 
+multiplicar a reward pela distancia 
+
+No caso de quanto mais curta mais reward -> multiplicar a reward por 1/(distancia *0.1 ou 0.01)
+
+no outro caso -> multiplicar a reward pela distancia que trava até um certo limite
