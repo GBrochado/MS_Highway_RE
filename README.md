@@ -8,6 +8,7 @@ This project explores the application of Reinforcement Learning (RL) to optimize
 The repository includes:
 
 Notebook: Jupyter notebooks detailing different tasks of the project.
+
 README File: This document, summarizing the project objectives and structure.
 
 ## Key Objectives
