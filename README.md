@@ -33,8 +33,9 @@ Python version: 3.10.11
 
 ## How to run
 
-Before running the code, it is necessary to install the required dependencies. All the necessary libraries are listed in the `requirements.txt` file. To ensure proper installation and avoid potential errors, PyTorch should be installed using the following command:
-pip install torch==2.3.1+cu121 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121.`
+Before running the code, it is necessary to install the required dependencies. All the necessary libraries are listed in the requirements.txt` file. To ensure proper installation and avoid potential errors, PyTorch should be installed using the following command:
+
+`pip install torch==2.3.1+cu121 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121.`
 
 Once all dependencies are installed, running the models will be straightforward. The project consists of 5 folders: one for statistics that analyze the results, and the others contain the code for all the trained models. To run the models, simply open the relevant jupyter notebook and execute all the cells to train the models and obtain the results.
 
