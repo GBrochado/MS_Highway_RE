@@ -15,11 +15,15 @@ README File: This document summarizes the project objectives, structure, and ins
 
 ## Key Objectives
 
-Identify optimal merging speeds for autonomous vehicles.
-Determine the minimum safe gap between vehicles during merging.
-Identify the best action for the ego-vehicle while merging (braking or accelerating).
-Compare the behavioral strategies for the ego-vehicle on the highway (changing lanes or braking).
-Evaluate the impact of ego-vehicle actions on himself and others.
+- Identify optimal merging speeds for autonomous vehicles.
+  
+- Determine the minimum safe gap between vehicles during merging.
+  
+- Identify the best action for the ego-vehicle while merging (braking or accelerating).
+  
+- Compare the behavioral strategies for the ego-vehicle on the highway (changing lanes or braking).
+  
+- Evaluate the impact of ego-vehicle actions on himself and others.
 
 ## Technologies Used
 
