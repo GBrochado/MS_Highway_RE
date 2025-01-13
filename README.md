@@ -37,7 +37,7 @@ Python version: 3.10.11
 
 ## How to run
 
-Before running the code, it is necessary to install the required dependencies. All the necessary libraries are listed in the requirements.txt` file. To ensure proper installation and avoid potential errors, PyTorch should be installed using the following command:
+Before running the code, it is necessary to install the required dependencies. All the necessary libraries are listed in the `requirements.txt` file. To ensure proper installation and avoid potential errors, PyTorch should be installed using the following command:
 
 `pip install torch==2.3.1+cu121 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121.`
 
