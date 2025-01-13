@@ -9,9 +9,9 @@ This project explores the application of Reinforcement Learning (RL) to optimize
 
 The repository includes:
 
-Notebook Folders: Jupyter notebooks detailing different tasks of the project.
+**Notebook Folders**: Jupyter notebooks detailing different tasks of the project.
 
-README File: This document summarizes the project objectives, structure, and instructions for using the code.
+**README File**: This document summarizes the project objectives, structure, and instructions for using the code.
 
 ## Key Objectives
 
@@ -47,9 +47,12 @@ Once all dependencies are installed, running the models will be straightforward.
 
 ## Future Work
 
-Integration with real-world traffic data.
-Exploration of multi-agent interactions.
-Refinement of reward functions for better adaptability.
-Testing in dynamic and complex environments.
+- Integration with real-world traffic data.
+  
+- Exploration of multi-agent interactions.
+
+- Refinement of reward functions for better adaptability.
+
+- Testing in dynamic and complex environments.
 
 
