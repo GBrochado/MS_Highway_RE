@@ -1,20 +1,13 @@
-# Reinforcement Learning for Safe and Efficient Autonomous Merging Using Highway-Env
-Assignment on the course Modelling and Simulation (MSc in Artificial Intelligence, 1st semester)
+# README
 
-## Project Description
+## Reinforcement Learning for Safe and Efficient Autonomous Merging Using Highway-Env
+Assignment on the course Modelling and Simulation (MSc in Artificial Intelligence 1st year, 1st semester)
 
+## A little context
+### Overview
 This project explores the application of Reinforcement Learning (RL) to optimize autonomous highway merging maneuvers using the Highway-Env framework. The research focuses on ensuring safety, minimizing traffic disruptions, and improving overall merging efficiency.
 
-## Content
-
-The repository includes:
-
-**Notebook Folders**: Jupyter notebooks detailing different tasks of the project.
-
-**README File**: This document summarizes the project objectives, structure, and instructions for using the code.
-
-## Key Objectives
-
+### Key Objectives
 - Identify optimal merging speeds for autonomous vehicles.
   
 - Determine the minimum safe gap between vehicles during merging.
@@ -24,6 +17,36 @@ The repository includes:
 - Compare the behavioral strategies for the ego-vehicle on the highway (changing lanes or braking).
   
 - Evaluate the impact of ego-vehicle actions on himself and others.
+
+### Scenarios Studied
+- What is the optimal merging velocity for the ego vehi-
+cle?
+- What is the minimum gap, highway vehicles should have
+between them?
+- What action should the ego vehicle take while on the
+highway to minimize its own impact?
+    - Should it brake and let the merging vehicle in?
+    - Or would it be more effective to change lanes?
+- What action should the ego vehicle take while on the
+highway to minimize its impact on other vehicles?
+    - Should it brake and let the merging vehicle in?
+    - Or would it be more effective to change lanes?
+- What is the best action for the ego vehicle to take during
+merging to minimize its effect on other vehicles?
+    - Should it brake close to the merging point?
+    - Should it accelerate to enter the highway quickly
+
+### The environment
+#### For questions 1, 2 and 5
+![scenario_3](https://github.com/user-attachments/assets/b5fa3751-f4a3-4097-b8d8-dd6d8d2bcd66)
+#### For questions 3 and 4
+![scenario_2](https://github.com/user-attachments/assets/d2a9eb33-b79a-43c5-bbb4-96b5f2196dd8)
+
+## The repository includes:
+
+**Notebook Folders**: Jupyter notebooks detailing different tasks of the project.
+
+**README File**: This document summarizes the project objectives, structure, and instructions for using the code.
 
 ## Technologies Used
 
